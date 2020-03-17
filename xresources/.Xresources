@@ -1,0 +1,21 @@
+rofi.color-enabled: true
+
+rofi.color-window: argb:d02f343f,argb:d02f343f, argb:d02f343f
+
+rofi.color-normal: argb:002f343f, #f3f4f5 , argb:002f343f, argb:002f343f, #9575cd
+
+rofi.color-active: argb:002f343f, #f3f4f5, argb:002f343f, argb:002f343f, #9575cd
+
+rofi.color-urgent: argb:002f343f, #f3f4f5, argb:002f343f, argb:002f343f, #9575cd
+
+rofi.fake-transparancy: false
+
+rofi.lines: 3
+
+rofi.width: 100
+
+rofi.padding: 485
+
+rofi.hide-scrollbar: true
+
+rofi.font: font System San Francisco Display 18
